@@ -1,0 +1,18 @@
+c:\users\ad07\documents\visual studio 2010\Projects\CompararDosNumeros\CompararDosNumeros\bin\Debug\CompararDosNumeros.exe
+c:\users\ad07\documents\visual studio 2010\Projects\CompararDosNumeros\CompararDosNumeros\bin\Debug\CompararDosNumeros.pdb
+c:\users\ad07\documents\visual studio 2010\Projects\CompararDosNumeros\CompararDosNumeros\bin\Debug\CompararDosNumeros.xml
+c:\users\ad07\documents\visual studio 2010\Projects\CompararDosNumeros\CompararDosNumeros\obj\x86\Debug\CompararDosNumeros.Form1.resources
+c:\users\ad07\documents\visual studio 2010\Projects\CompararDosNumeros\CompararDosNumeros\obj\x86\Debug\CompararDosNumeros.Resources.resources
+c:\users\ad07\documents\visual studio 2010\Projects\CompararDosNumeros\CompararDosNumeros\obj\x86\Debug\CompararDosNumeros.vbproj.GenerateResource.Cache
+c:\users\ad07\documents\visual studio 2010\Projects\CompararDosNumeros\CompararDosNumeros\obj\x86\Debug\CompararDosNumeros.exe
+c:\users\ad07\documents\visual studio 2010\Projects\CompararDosNumeros\CompararDosNumeros\obj\x86\Debug\CompararDosNumeros.xml
+c:\users\ad07\documents\visual studio 2010\Projects\CompararDosNumeros\CompararDosNumeros\obj\x86\Debug\CompararDosNumeros.pdb
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Pancho6Trimestre\CompararDosNumeros\CompararDosNumeros\obj\x86\Debug\CompararDosNumeros.exe
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Pancho6Trimestre\CompararDosNumeros\CompararDosNumeros\obj\x86\Debug\CompararDosNumeros.xml
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Pancho6Trimestre\CompararDosNumeros\CompararDosNumeros\obj\x86\Debug\CompararDosNumeros.pdb
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Pancho6Trimestre\CompararDosNumeros\CompararDosNumeros\bin\Debug\CompararDosNumeros.exe
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Pancho6Trimestre\CompararDosNumeros\CompararDosNumeros\bin\Debug\CompararDosNumeros.pdb
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Pancho6Trimestre\CompararDosNumeros\CompararDosNumeros\bin\Debug\CompararDosNumeros.xml
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Pancho6Trimestre\CompararDosNumeros\CompararDosNumeros\obj\x86\Debug\CompararDosNumeros.Form1.resources
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Pancho6Trimestre\CompararDosNumeros\CompararDosNumeros\obj\x86\Debug\CompararDosNumeros.Resources.resources
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Pancho6Trimestre\CompararDosNumeros\CompararDosNumeros\obj\x86\Debug\CompararDosNumeros.vbproj.GenerateResource.Cache
